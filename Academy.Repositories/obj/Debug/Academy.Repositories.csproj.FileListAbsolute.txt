@@ -1,0 +1,62 @@
+E:\Tung\Project\academy\Academy.Repositories\bin\Debug\Academy.Repositories.dll
+E:\Tung\Project\academy\Academy.Repositories\bin\Debug\Academy.Repositories.pdb
+E:\Tung\Project\academy\Academy.Repositories\bin\Debug\Academy.Common.dll
+E:\Tung\Project\academy\Academy.Repositories\bin\Debug\Academy.Data.dll
+E:\Tung\Project\academy\Academy.Repositories\bin\Debug\Academy.Common.pdb
+E:\Tung\Project\academy\Academy.Repositories\bin\Debug\Academy.Data.pdb
+E:\Tung\Project\academy\Academy.Repositories\obj\Debug\Academy.Repositories.csprojAssemblyReference.cache
+E:\Tung\Project\academy\Academy.Repositories\obj\Debug\Academy.Repositories.csproj.CoreCompileInputs.cache
+E:\Tung\Project\academy\Academy.Repositories\obj\Debug\Academy.Repositories.csproj.CopyComplete
+E:\Tung\Project\academy\Academy.Repositories\obj\Debug\Academy.Repositories.dll
+E:\Tung\Project\academy\Academy.Repositories\obj\Debug\Academy.Repositories.pdb
+D:\nghia\ASP.NET MVC\academy\academy\Academy.Repositories\bin\Debug\Academy.Repositories.dll
+D:\nghia\ASP.NET MVC\academy\academy\Academy.Repositories\bin\Debug\Academy.Repositories.pdb
+D:\nghia\ASP.NET MVC\academy\academy\Academy.Repositories\bin\Debug\Academy.Common.dll
+D:\nghia\ASP.NET MVC\academy\academy\Academy.Repositories\bin\Debug\Academy.Data.dll
+D:\nghia\ASP.NET MVC\academy\academy\Academy.Repositories\bin\Debug\Academy.Common.pdb
+D:\nghia\ASP.NET MVC\academy\academy\Academy.Repositories\bin\Debug\Academy.Data.pdb
+D:\nghia\ASP.NET MVC\academy\academy\Academy.Repositories\obj\Debug\Academy.Repositories.csprojAssemblyReference.cache
+D:\nghia\ASP.NET MVC\academy\academy\Academy.Repositories\obj\Debug\Academy.Repositories.csproj.CoreCompileInputs.cache
+D:\nghia\ASP.NET MVC\academy\academy\Academy.Repositories\obj\Debug\Academy.Repositories.csproj.CopyComplete
+D:\nghia\ASP.NET MVC\academy\academy\Academy.Repositories\obj\Debug\Academy.Repositories.dll
+D:\nghia\ASP.NET MVC\academy\academy\Academy.Repositories\obj\Debug\Academy.Repositories.pdb
+D:\nghia\ASP.NET MVC\academy\academy\Academy.Repositories\bin\Debug\Academy.Repositories.dll.config
+D:\nghia\ASP.NET MVC\academy\academy\Academy.Repositories\bin\Debug\EntityFramework.dll
+D:\nghia\ASP.NET MVC\academy\academy\Academy.Repositories\bin\Debug\EntityFramework.SqlServer.dll
+D:\nghia\ASP.NET MVC\academy\academy\Academy.Repositories\bin\Debug\Academy.Data.dll.config
+D:\nghia\ASP.NET MVC\academy\academy\Academy.Repositories\bin\Debug\EntityFramework.xml
+D:\nghia\ASP.NET MVC\academy\academy\Academy.Repositories\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy.Repositories\bin\Debug\Academy.Repositories.dll.config
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy.Repositories\bin\Debug\Academy.Repositories.dll
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy.Repositories\bin\Debug\Academy.Repositories.pdb
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy.Repositories\bin\Debug\Academy.Common.dll
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy.Repositories\bin\Debug\Academy.Data.dll
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy.Repositories\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy.Repositories\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy.Repositories\bin\Debug\Academy.Common.pdb
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy.Repositories\bin\Debug\Academy.Data.pdb
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy.Repositories\bin\Debug\Academy.Data.dll.config
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy.Repositories\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy.Repositories\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy.Repositories\obj\Debug\Academy.Repositories.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy.Repositories\obj\Debug\Academy.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy.Repositories\obj\Debug\Academy.Repositories.csproj.CopyComplete
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy.Repositories\obj\Debug\Academy.Repositories.dll
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy.Repositories\obj\Debug\Academy.Repositories.pdb
+C:\Users\Admin\Desktop\DATN\academy\Academy.Repositories\bin\Debug\Academy.Repositories.dll.config
+C:\Users\Admin\Desktop\DATN\academy\Academy.Repositories\bin\Debug\Academy.Repositories.dll
+C:\Users\Admin\Desktop\DATN\academy\Academy.Repositories\bin\Debug\Academy.Repositories.pdb
+C:\Users\Admin\Desktop\DATN\academy\Academy.Repositories\bin\Debug\Academy.Common.dll
+C:\Users\Admin\Desktop\DATN\academy\Academy.Repositories\bin\Debug\Academy.Data.dll
+C:\Users\Admin\Desktop\DATN\academy\Academy.Repositories\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\DATN\academy\Academy.Repositories\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\DATN\academy\Academy.Repositories\bin\Debug\Academy.Common.pdb
+C:\Users\Admin\Desktop\DATN\academy\Academy.Repositories\bin\Debug\Academy.Data.pdb
+C:\Users\Admin\Desktop\DATN\academy\Academy.Repositories\bin\Debug\Academy.Data.dll.config
+C:\Users\Admin\Desktop\DATN\academy\Academy.Repositories\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\DATN\academy\Academy.Repositories\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\DATN\academy\Academy.Repositories\obj\Debug\Academy.Repositories.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\DATN\academy\Academy.Repositories\obj\Debug\Academy.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DATN\academy\Academy.Repositories\obj\Debug\Academy.Repositories.csproj.CopyComplete
+C:\Users\Admin\Desktop\DATN\academy\Academy.Repositories\obj\Debug\Academy.Repositories.dll
+C:\Users\Admin\Desktop\DATN\academy\Academy.Repositories\obj\Debug\Academy.Repositories.pdb

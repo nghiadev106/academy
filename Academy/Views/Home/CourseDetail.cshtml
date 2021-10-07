@@ -1,0 +1,170 @@
+﻿@model Academy.Models.FeedBackViewModel
+
+@{
+    ViewBag.Title = "Chi tiết khóa học";
+    var course = (Academy.Models.CourseViewModel)ViewBag.courseModel;
+}
+
+<div class="highlighted">
+    <div class="region region-highlighted">
+        <section id="block-custom-about-us" class="block block-custom node_about_us clearfix">
+            <div class="container">
+                <h2 class="block-title">@course.Name</h2>
+                <div class="block-content">
+                    <div class="row content-about-us">
+                        <div class="col-sm-12">
+                            <p>Ngày khai giảng: @String.Format("{0:dd/MM/yyyy}", course.StartDate)</p>
+                            <p>Ngày Kết thúc: @String.Format("{0:dd/MM/yyyy}", course.EndDate)</p>
+                            <p>Số buổi học: @course.CountLesson</p>
+                            <p>Học phí: @String.Format("{0:#,##0}", course.Price) đ</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section id="block-block-10" class="block block-block loi_ich clearfix">
+            <div class="container">
+
+                <div class="row">
+                    <div class="col-12" style="width: 50%; margin: 0px auto;">@Html.Raw(course.Description)</div>
+                </div>
+            </div>
+        </section>
+        <section id="block-block-10" class="block block-block loi_ich clearfix">
+            <div class="container">
+
+                <div class="row">
+                    <div class="col-12" style="text-align:center;">@Html.Raw(course.Note)</div>
+                </div>
+            </div>
+        </section>
+        <section id="block-views-slideshow-block-1" class="block block-views block_uu_diem clearfix">
+            <div class="container">
+                <h2 class="block-title">6.8 triệu học viên trên Thế giới đã chọn APTECH, Vì sao?</h2>
+                <h3></h3>
+                <div class="row">
+                    <div class="view view-slideshow view-id-slideshow view-display-id-block_1 view-dom-id-71bd4fdf3d97bbb4f0802af7a98cead6">
+                        <div class="view-content">
+                            <div class="owl-carousel-block_18">
+                                <div class="item-0 item-odd">
+                                    <div class="views-field views-field-field-slider-images">
+                                        <div class="field-content"><img typeof="foaf:Image" src="~/Assets/pages/sites/default/files/styles/265_175/public/chuong_trinh_hoc_chu_trong_thuc_hanhbdb9.jpg?itok=jjDaHJ0Y" width="265" height="175" alt="" /></div>
+                                    </div>
+                                    <div class="views-field views-field-nothing">
+                                        <span class="field-content">
+                                            <div class="uu_diem_row">
+                                                <div class="title">Chương trình học</div>
+                                                <div class="row_2">Chú trọng thực hành</div>
+                                                <div class="body_caunoi">
+                                                    <p style="text-align: justify;">Với chương trình học chú trọng thực hành, sinh viên APTECH luôn được tạo điều kiện để thực hiện các dự án thực tế một cách thành thạo, chuyên nghiệp nhất.</p>
+                                                </div>
+                                            </div>
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="item-1 item-even">
+                                    <div class="views-field views-field-field-slider-images">
+                                        <div class="field-content"><img typeof="foaf:Image" src="~/Assets/pages/sites/default/files/styles/265_175/public/doi_ngu_giang_vien_than_thien_nhiet_tinh5942.jpg?itok=NP-hk2Ku" width="265" height="175" alt="" /></div>
+                                    </div>
+                                    <div class="views-field views-field-nothing">
+                                        <span class="field-content">
+                                            <div class="uu_diem_row">
+                                                <div class="title">Đội ngũ giảng viên</div>
+                                                <div class="row_2">Thân thiện, nhiệt tình</div>
+                                                <div class="body_caunoi">
+                                                    <p style="text-align: justify;">Giảng viên là những Chuyên gia hàng đầu Việt Nam và luôn đồng hành cùng sinh viên APTECH trong quá trình học tập và phát triển.</p>
+                                                </div>
+                                            </div>
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="item-2 item-odd">
+                                    <div class="views-field views-field-field-slider-images">
+                                        <div class="field-content"><img typeof="foaf:Image" src="~/Assets/pages/sites/default/files/styles/265_175/public/co-so-vat-chat-theo-chuan-quoc-tebd74.jpg?itok=pwqtFqW5" width="265" height="175" alt="" /></div>
+                                    </div>
+                                    <div class="views-field views-field-nothing">
+                                        <span class="field-content">
+                                            <div class="uu_diem_row">
+                                                <div class="title">Cơ sở vật chất</div>
+                                                <div class="row_2">theo chuẩn Quốc tế</div>
+                                                <div class="body_caunoi">
+                                                    <p style="text-align: justify;">Với tiêu chuẩn đào tạo quốc tế, APTECH luôn đảm bảo cho học viên không gian học tập, nghiêm cứu sáng tạo và hiện đại nhất.</p>
+                                                </div>
+                                            </div>
+                                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="block-block-11" class="block block-block button clearfix">
+            <div class="container">
+                <h2 class="block-title">Bạn có muốn học cùng chuyên gia CNTT hàng đầu?</h2>
+                <div class="row">
+                    <div class="col-sm-12"><a href="#block-webform-client-block-5352" class="button_i_want">Tôi muốn</a></div>
+                </div>
+            </div>
+        </section>
+
+    </div>
+</div>
+<div class="front_content_1">
+    <div class="container">
+        <div class="row">
+            <div class="region region-front-content-1">
+                <section id="block-block-22" class="block block-block col-sm-12 ads clearfix">
+                    <div class="block-content">
+                        <p><a href="aptechplus.aptech-news.html"></a></p>
+                    </div>
+                </section>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="front_content_2">
+    <div class="region region-front-content-2">
+        <section id="block-webform-client-block-5352" class="block block-webform form_register col-sm-12 clearfix">
+            <div class="container">
+                <h2 class="block-title">ĐĂNG KÝ NHẬN TƯ VẤN TỪ APTECH</h2>
+                <h3>Bạn vui lòng điền đầy đủ thông tin và click đăng ký. APTECH sẽ liên lạc với bạn trong thời gian sớm nhất</h3>
+                <div class="row">
+                    <div id="webform-ajax-wrapper-5352">
+                        <form class="webform-client-form webform-client-form-5352" action="/Home/FeedBack" method="post" id="webform-client-form-5352" accept-charset="UTF-8">
+                            <div>
+                                <div class="form-item webform-component webform-component-textfield webform-component--name"> <label for="edit-submitted-name">Họ và tên <span class="form-required" title="This field is required.">*</span></label>@Html.TextBoxFor(model => model.Name, new { @required = "required", @class = "form-control form-text required", @type = "text", id = "edit-submitted-name", size = "60", maxlength = "128" })</div>
+                                <div class="form-item webform-component webform-component-email webform-component--e-mail"> <label for="edit-submitted-e-mail">E-mail <span class="form-required" title="This field is required.">*</span></label> @Html.TextBoxFor(model => model.Email, new { @required = "required", @class = "form-control form-text required", @type = "text", id = "edit-submitted-email", size = "60", maxlength = "128" })</div>
+                                <div class="form-item webform-component webform-component-textfield webform-component--phone"> <label for="edit-submitted-phone">Điện thoại <span class="form-required" title="This field is required.">*</span></label> @Html.TextBoxFor(model => model.Phone, new { @required = "required", @class = "form-control form-text required", @type = "number", id = "edit-submitted-email", size = "60", maxlength = "128" })</div>
+                                <div class="form-item webform-component webform-component-radios webform-component--location">
+                                    <label for="edit-submitted-location">Vị trí <span class="form-required" title="This field is required.">*</span></label>
+                                    <div id="edit-submitted-location" class="form-radios">
+                                        <div class="form-type-radio form-item-submitted-location form-item radio"> <input required="required" type="radio" id="edit-submitted-location-1" name="submitted[location]" value="1" class="form-radio" /> <label for="edit-submitted-location-1">54 Lê Thanh Nghị, Bách Khoa, Hà Nội </label></div>
+                                        <div class="form-type-radio form-item-submitted-location form-item radio"> <input required="required" type="radio" id="edit-submitted-location-2" name="submitted[location]" value="2" class="form-radio" /> <label for="edit-submitted-location-2">285 Đội Cấn, Ba Đình, Hà Nội </label></div>
+                                        <div class="form-type-radio form-item-submitted-location form-item radio"> <input required="required" type="radio" id="edit-submitted-location-3" name="submitted[location]" value="3" class="form-radio" /> <label for="edit-submitted-location-3">212-214 Nguyễn Đình Chiểu, Q.3, TPHCM </label></div>
+                                    </div>
+                                </div>
+                                <fieldset class="captcha panel panel-default form-wrapper">
+
+                                    <div class="panel-body">
+                                        <div class="form-type-textfield form-item-captcha-response form-item form-group" data-toggle="tooltip" title="Fill in the blank."> <label for="edit-captcha-response">Nhập thông tin cần tư vấn<span class="form-required" title="This field is required.">*</span></label> @Html.TextBoxFor(model => model.Description, new { @class = "form-control form-text", @type = "text", id = "edit-submitted-desc", size = "50", maxlength = "500" })</div>
+                                    </div>
+                                </fieldset>
+                                <button class="webform-submit button-primary btn btn-primary form-submit" value="Submit" type="submit">Submit</button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+    </div>
+</div>
+
+<script src="~/Assets/pages/js/email-decode.min.js"></script>
+<script src="~/Assets/pages/sites/all/libraries/owl-carousel/owl.carousel.min43ff.js?qo1stt"></script>
+<script src="~/Assets/pages/sites/all/modules/facebook_comments_block/js/facebook_comments_block43ff.js?qo1stt"></script>
+<script src="~/Assets/pages/sites/all/modules/owlcarousel/includes/js/owlcarousel.settings43ff.js?qo1stt"></script>
+<script src="~/Assets/pages/sites/all/themes/bootstrap/js/bootstrap43ff.js?qo1stt"></script>

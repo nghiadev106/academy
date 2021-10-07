@@ -1,0 +1,85 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    var ListCourse = (List<Academy.Models.CourseViewModel>)ViewBag.ListCourse;
+}
+
+<div class="front_content_3">
+    <div class="container">
+        <div class="row">
+            <div class="region region-front-content-3">
+                <section id="block-views-content-function-block-8" class="block block-views col-sm-12 trien_lam_front clearfix">
+                    <h2 class="block-title">Khóa học</h2>
+                    <div class="block-content">
+                        <div class="view view-content-function view-id-content_function view-display-id-block_8 row view-dom-id-391dcb83ab67c786796d1ace2d568077">
+                            <div class="view-header">
+                                <h3>Các khóa học tại Aptech</h3>
+                            </div>
+                            <div class="view-content">
+                                @foreach (var item in ListCourse)
+                                {
+                                    <div class="views-row views-row-1 views-row-odd views-row-first col-sm-3" style="height: 260px; margin-bottom: 40px;">
+                                        <div class="views-field views-field-field-anh-nho-tren-panel">
+                                            <div class="field-content"><a href="/Home/CourseDetail?id=@item.Id"><img typeof="foaf:Image" src="@item.Image"  style="height:150px;width:210px;" alt="@item.Name" /></a></div>
+                                        </div>
+                                        <div class="views-field views-field-nothing" style=" height: 140px;">
+                                            <span class="field-content">
+                                                <div class="post_date">@String.Format("{0:MM/dd/yyyy}", item.CreateDate)</div>
+                                                <div class="de_tai"><a href="/Home/NewsDetail?id=@item.Id">@item.Name</a></div>
+                                          
+                                                <div class="link"><a href="/Home/CourseDetail?id=@item.Id" data-inner-width="800" data-inner-height="600">>> Xem thêm</a></div>
+                                                <div class="footer_product">
+                                                    <div class="footer_right pull-right">
+                                                        <div class="comment">0</div>
+                                                        <div class="flag"></div>
+                                                    </div>
+                                                </div>
+                                            </span>
+                                        </div>
+                                    </div>
+                                }
+
+
+                            </div>
+                        </div>
+                    </div>
+                </section>                
+                <section id="block-block-26" class="block block-block col-sm-12 footer_cat clearfix">
+                    <h2 class="block-title">Bừng sáng khát vọng thành công cùng Aptech</h2>
+                    <div class="block-content"> <a class="go_front" href="#block-md-slider-md-slider-57457a5e36cb1"></a></div>
+                </section>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script src="~/Assets/pages/js/email-decode.min.js"></script>
+<script src="~/Assets/pages/sites/all/libraries/owl-carousel/owl.carousel.min43ff.js?qo1stt"></script>
+<script src="~/Assets/pages/sites/all/modules/facebook_comments_block/js/facebook_comments_block43ff.js?qo1stt"></script>
+<script src="~/Assets/pages/sites/all/modules/owlcarousel/includes/js/owlcarousel.settings43ff.js?qo1stt"></script>
+<script src="~/Assets/pages/sites/all/themes/bootstrap/js/bootstrap43ff.js?qo1stt"></script>
+<script>
+    !function (f, b, e, v, n, t, s) {
+        if (f.fbq) return; n = f.fbq = function () {
+            n.callMethod ?
+                n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+        };
+        if (!f._fbq) f._fbq = n; n.push = n; n.loaded = !0; n.version = '2.0';
+        n.queue = []; t = b.createElement(e); t.async = !0;
+        t.src = v; s = b.getElementsByTagName(e)[0];
+        s.parentNode.insertBefore(t, s)
+    }(window, document, 'script',
+        '../connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '773220622877128');
+    fbq('track', 'PageView');
+</script>
+<noscript>
+    <img height="1" width="1" style="display:none"
+         src="https://www.facebook.com/tr?id=773220622877128&amp;ev=PageView&amp;noscript=1" />
+</noscript>
+<noscript>
+    <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NV98LLF"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<script>!function (s, u, b, i, z) { var o, t, r, y; s[i] || (s._sbzaccid = z, s[i] = function () { s[i].q.push(arguments) }, s[i].q = [], s[i]("setAccount", z), r = ["widget.subiz.net", "storage.googleapis" + (t = ".com"), "app.sbz.workers.dev", i + "a" + (o = function (k, t) { var n = t <= 6 ? 5 : o(k, t - 1) + o(k, t - 3); return k !== t ? n : n.toString(32) })(20, 20) + t, i + "b" + o(30, 30) + t, i + "c" + o(40, 40) + t], (y = function (k) { var t, n; s._subiz_init_2094850928430 || r[k] && (t = u.createElement(b), n = u.getElementsByTagName(b)[0], t.async = 1, t.src = "https://" + r[k] + "/sbz/app.js?accid=" + z, n.parentNode.insertBefore(t, n), setTimeout(y, 2e3, k + 1)) })(0)) }(window, document, "script", "subiz", "acqpeyxnjmvbdavhzcwm")</script>
+<script>window.fbAsyncInit = function () { FB.init({ appId: '189605364869646', autoLogAppEvents: true, xfbml: true, version: 'v2.11' }); }; (function (d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) { return; } js = d.createElement(s); js.id = id; js.src = '../connect.facebook.net/en_US/sdk/xfbml.customerchat.js'; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script>
+<div class="fb-customerchat" page_id="371202429573648" minimized="true" logged_in_greeting="Xin chào! Aptech có thể giúp gì cho bạn?" logged_out_greeting="Xin chào! Aptech có thể giúp gì cho bạn?"> </div>

@@ -1,0 +1,59 @@
+E:\Tung\Project\academy\Academy.Data\bin\Debug\Academy.Data.dll
+E:\Tung\Project\academy\Academy.Data\bin\Debug\Academy.Data.pdb
+E:\Tung\Project\academy\Academy.Data\bin\Debug\Academy.Common.dll
+E:\Tung\Project\academy\Academy.Data\bin\Debug\Academy.Common.pdb
+E:\Tung\Project\academy\Academy.Data\obj\Debug\Academy.Data.csprojAssemblyReference.cache
+E:\Tung\Project\academy\Academy.Data\obj\Debug\Academy.Data.csproj.CoreCompileInputs.cache
+E:\Tung\Project\academy\Academy.Data\obj\Debug\Academy.Data.csproj.CopyComplete
+E:\Tung\Project\academy\Academy.Data\obj\Debug\Academy.Data.dll
+E:\Tung\Project\academy\Academy.Data\obj\Debug\Academy.Data.pdb
+D:\nghia\ASP.NET MVC\academy\academy\Academy.Data\bin\Debug\Academy.Data.dll
+D:\nghia\ASP.NET MVC\academy\academy\Academy.Data\bin\Debug\Academy.Data.pdb
+D:\nghia\ASP.NET MVC\academy\academy\Academy.Data\bin\Debug\Academy.Common.dll
+D:\nghia\ASP.NET MVC\academy\academy\Academy.Data\bin\Debug\Academy.Common.pdb
+D:\nghia\ASP.NET MVC\academy\academy\Academy.Data\obj\Debug\Academy.Data.csprojAssemblyReference.cache
+D:\nghia\ASP.NET MVC\academy\academy\Academy.Data\obj\Debug\Academy.Data.csproj.CoreCompileInputs.cache
+D:\nghia\ASP.NET MVC\academy\academy\Academy.Data\obj\Debug\Academy.Data.csproj.CopyComplete
+D:\nghia\ASP.NET MVC\academy\academy\Academy.Data\obj\Debug\Academy.Data.dll
+D:\nghia\ASP.NET MVC\academy\academy\Academy.Data\obj\Debug\Academy.Data.pdb
+D:\nghia\ASP.NET MVC\academy\academy\Academy.Data\bin\Debug\Academy.Data.dll.config
+D:\nghia\ASP.NET MVC\academy\academy\Academy.Data\bin\Debug\EntityFramework.dll
+D:\nghia\ASP.NET MVC\academy\academy\Academy.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\nghia\ASP.NET MVC\academy\academy\Academy.Data\bin\Debug\EntityFramework.xml
+D:\nghia\ASP.NET MVC\academy\academy\Academy.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy.Data\bin\Debug\Academy.Data.dll.config
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy.Data\bin\Debug\Academy.Data.dll
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy.Data\bin\Debug\Academy.Data.pdb
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy.Data\bin\Debug\Academy.Common.dll
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy.Data\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy.Data\bin\Debug\Academy.Common.pdb
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy.Data\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy.Data\obj\Debug\Academy.Data.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy.Data\obj\Debug\Academy.Data.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy.Data\obj\Debug\Academy.Data.csproj.CopyComplete
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy.Data\obj\Debug\Academy.Data.dll
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy.Data\obj\Debug\Academy.Data.pdb
+C:\Users\Admin\Desktop\DATN\academy\Academy.Data\bin\Debug\Academy.Data.dll.config
+C:\Users\Admin\Desktop\DATN\academy\Academy.Data\bin\Debug\Academy.Data.dll
+C:\Users\Admin\Desktop\DATN\academy\Academy.Data\bin\Debug\Academy.Data.pdb
+C:\Users\Admin\Desktop\DATN\academy\Academy.Data\bin\Debug\Academy.Common.dll
+C:\Users\Admin\Desktop\DATN\academy\Academy.Data\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\DATN\academy\Academy.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\DATN\academy\Academy.Data\bin\Debug\Academy.Common.pdb
+C:\Users\Admin\Desktop\DATN\academy\Academy.Data\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\DATN\academy\Academy.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\DATN\academy\Academy.Data\obj\Debug\Academy.Data.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\DATN\academy\Academy.Data\obj\Debug\Academy.Data.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DATN\academy\Academy.Data\obj\Debug\Academy.Data.csproj.CopyComplete
+C:\Users\Admin\Desktop\DATN\academy\Academy.Data\obj\Debug\Academy.Data.dll
+C:\Users\Admin\Desktop\DATN\academy\Academy.Data\obj\Debug\Academy.Data.pdb
+D:\nghia\ASP.NET MVC\academy\academy\Academy.Data\bin\Debug\CKFinder.dll
+D:\nghia\ASP.NET MVC\academy\academy\Academy.Data\bin\Debug\CKFinder_FileEditor.dll
+D:\nghia\ASP.NET MVC\academy\academy\Academy.Data\bin\Debug\CKFinder_ImageResize.dll
+D:\nghia\ASP.NET MVC\academy\academy\Academy.Data\bin\Debug\CKFinder_Watermark.dll
+D:\nghia\ASP.NET MVC\academy\academy\Academy.Data\bin\Debug\CKFinder.pdb
+D:\nghia\ASP.NET MVC\academy\academy\Academy.Data\bin\Debug\CKFinder_FileEditor.pdb
+D:\nghia\ASP.NET MVC\academy\academy\Academy.Data\bin\Debug\CKFinder_ImageResize.pdb
+D:\nghia\ASP.NET MVC\academy\academy\Academy.Data\bin\Debug\CKFinder_Watermark.pdb

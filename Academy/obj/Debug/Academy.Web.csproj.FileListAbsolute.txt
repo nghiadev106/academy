@@ -1,0 +1,505 @@
+E:\Tung\Project\academy\Academy\bin\Academy.dll.config
+E:\Tung\Project\academy\Academy\bin\Academy.dll
+E:\Tung\Project\academy\Academy\bin\Academy.pdb
+E:\Tung\Project\academy\Academy\bin\roslyn\csc.exe
+E:\Tung\Project\academy\Academy\bin\roslyn\csc.exe.config
+E:\Tung\Project\academy\Academy\bin\roslyn\csc.rsp
+E:\Tung\Project\academy\Academy\bin\roslyn\csi.exe
+E:\Tung\Project\academy\Academy\bin\roslyn\csi.exe.config
+E:\Tung\Project\academy\Academy\bin\roslyn\csi.rsp
+E:\Tung\Project\academy\Academy\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Tung\Project\academy\Academy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Tung\Project\academy\Academy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Tung\Project\academy\Academy\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Tung\Project\academy\Academy\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Tung\Project\academy\Academy\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Tung\Project\academy\Academy\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Tung\Project\academy\Academy\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Tung\Project\academy\Academy\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Tung\Project\academy\Academy\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Tung\Project\academy\Academy\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Tung\Project\academy\Academy\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Tung\Project\academy\Academy\bin\roslyn\System.AppContext.dll
+E:\Tung\Project\academy\Academy\bin\roslyn\System.Collections.Immutable.dll
+E:\Tung\Project\academy\Academy\bin\roslyn\System.Console.dll
+E:\Tung\Project\academy\Academy\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Tung\Project\academy\Academy\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Tung\Project\academy\Academy\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Tung\Project\academy\Academy\bin\roslyn\System.Globalization.Calendars.dll
+E:\Tung\Project\academy\Academy\bin\roslyn\System.IO.Compression.dll
+E:\Tung\Project\academy\Academy\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Tung\Project\academy\Academy\bin\roslyn\System.IO.FileSystem.dll
+E:\Tung\Project\academy\Academy\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Tung\Project\academy\Academy\bin\roslyn\System.Net.Http.dll
+E:\Tung\Project\academy\Academy\bin\roslyn\System.Net.Sockets.dll
+E:\Tung\Project\academy\Academy\bin\roslyn\System.Reflection.Metadata.dll
+E:\Tung\Project\academy\Academy\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Tung\Project\academy\Academy\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Tung\Project\academy\Academy\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Tung\Project\academy\Academy\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Tung\Project\academy\Academy\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Tung\Project\academy\Academy\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Tung\Project\academy\Academy\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Tung\Project\academy\Academy\bin\roslyn\System.ValueTuple.dll
+E:\Tung\Project\academy\Academy\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Tung\Project\academy\Academy\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Tung\Project\academy\Academy\bin\roslyn\System.Xml.XPath.dll
+E:\Tung\Project\academy\Academy\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Tung\Project\academy\Academy\bin\roslyn\vbc.exe
+E:\Tung\Project\academy\Academy\bin\roslyn\vbc.exe.config
+E:\Tung\Project\academy\Academy\bin\roslyn\vbc.rsp
+E:\Tung\Project\academy\Academy\bin\roslyn\VBCSCompiler.exe
+E:\Tung\Project\academy\Academy\bin\roslyn\VBCSCompiler.exe.config
+E:\Tung\Project\academy\Academy\bin\Academy.Common.dll
+E:\Tung\Project\academy\Academy\bin\Academy.Data.dll
+E:\Tung\Project\academy\Academy\bin\Academy.Repositories.dll
+E:\Tung\Project\academy\Academy\bin\Antlr3.Runtime.dll
+E:\Tung\Project\academy\Academy\bin\EntityFramework.dll
+E:\Tung\Project\academy\Academy\bin\EntityFramework.SqlServer.dll
+E:\Tung\Project\academy\Academy\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Tung\Project\academy\Academy\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Tung\Project\academy\Academy\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Tung\Project\academy\Academy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Tung\Project\academy\Academy\bin\Microsoft.Owin.dll
+E:\Tung\Project\academy\Academy\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Tung\Project\academy\Academy\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Tung\Project\academy\Academy\bin\Microsoft.Owin.Security.dll
+E:\Tung\Project\academy\Academy\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Tung\Project\academy\Academy\bin\Microsoft.Owin.Security.Google.dll
+E:\Tung\Project\academy\Academy\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Tung\Project\academy\Academy\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Tung\Project\academy\Academy\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Tung\Project\academy\Academy\bin\Microsoft.Web.Infrastructure.dll
+E:\Tung\Project\academy\Academy\bin\Newtonsoft.Json.dll
+E:\Tung\Project\academy\Academy\bin\Owin.dll
+E:\Tung\Project\academy\Academy\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\Tung\Project\academy\Academy\bin\System.Web.Helpers.dll
+E:\Tung\Project\academy\Academy\bin\System.Web.Mvc.dll
+E:\Tung\Project\academy\Academy\bin\System.Web.Optimization.dll
+E:\Tung\Project\academy\Academy\bin\System.Web.Razor.dll
+E:\Tung\Project\academy\Academy\bin\System.Web.WebPages.Deployment.dll
+E:\Tung\Project\academy\Academy\bin\System.Web.WebPages.dll
+E:\Tung\Project\academy\Academy\bin\System.Web.WebPages.Razor.dll
+E:\Tung\Project\academy\Academy\bin\Unity.Abstractions.dll
+E:\Tung\Project\academy\Academy\bin\Unity.Container.dll
+E:\Tung\Project\academy\Academy\bin\Unity.Mvc5.dll
+E:\Tung\Project\academy\Academy\bin\WebGrease.dll
+E:\Tung\Project\academy\Academy\bin\System.Threading.Tasks.Extensions.dll
+E:\Tung\Project\academy\Academy\bin\Academy.Common.pdb
+E:\Tung\Project\academy\Academy\bin\Academy.Data.pdb
+E:\Tung\Project\academy\Academy\bin\Academy.Repositories.pdb
+E:\Tung\Project\academy\Academy\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\Tung\Project\academy\Academy\bin\System.Web.Helpers.xml
+E:\Tung\Project\academy\Academy\bin\System.Web.Mvc.xml
+E:\Tung\Project\academy\Academy\bin\System.Web.Optimization.xml
+E:\Tung\Project\academy\Academy\bin\System.Web.Razor.xml
+E:\Tung\Project\academy\Academy\bin\System.Web.WebPages.xml
+E:\Tung\Project\academy\Academy\bin\System.Web.WebPages.Deployment.xml
+E:\Tung\Project\academy\Academy\bin\System.Web.WebPages.Razor.xml
+E:\Tung\Project\academy\Academy\bin\Newtonsoft.Json.xml
+E:\Tung\Project\academy\Academy\bin\Unity.Abstractions.pdb
+E:\Tung\Project\academy\Academy\bin\Unity.Container.pdb
+E:\Tung\Project\academy\Academy\bin\Antlr3.Runtime.pdb
+E:\Tung\Project\academy\Academy\bin\EntityFramework.xml
+E:\Tung\Project\academy\Academy\bin\EntityFramework.SqlServer.xml
+E:\Tung\Project\academy\Academy\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Tung\Project\academy\Academy\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Tung\Project\academy\Academy\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Tung\Project\academy\Academy\bin\Microsoft.Owin.xml
+E:\Tung\Project\academy\Academy\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Tung\Project\academy\Academy\bin\Microsoft.Owin.Security.xml
+E:\Tung\Project\academy\Academy\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Tung\Project\academy\Academy\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Tung\Project\academy\Academy\bin\Microsoft.Owin.Security.Google.xml
+E:\Tung\Project\academy\Academy\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Tung\Project\academy\Academy\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Tung\Project\academy\Academy\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Tung\Project\academy\Academy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Tung\Project\academy\Academy\obj\Debug\Academy.Web.csprojAssemblyReference.cache
+E:\Tung\Project\academy\Academy\obj\Debug\Academy.Web.csproj.CoreCompileInputs.cache
+E:\Tung\Project\academy\Academy\obj\Debug\Academy.Web.csproj.CopyComplete
+E:\Tung\Project\academy\Academy\obj\Debug\Academy.dll
+E:\Tung\Project\academy\Academy\obj\Debug\Academy.pdb
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\Academy.dll.config
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\Academy.dll
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\Academy.pdb
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\roslyn\csc.exe.config
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\roslyn\csc.rsp
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\roslyn\csi.exe.config
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\roslyn\csi.rsp
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\roslyn\Microsoft.Managed.Core.targets
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\roslyn\System.AppContext.dll
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\roslyn\System.Collections.Immutable.dll
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\roslyn\System.Console.dll
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\roslyn\System.Globalization.Calendars.dll
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\roslyn\System.IO.Compression.dll
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\roslyn\System.IO.FileSystem.dll
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\roslyn\System.Net.Http.dll
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\roslyn\System.Net.Sockets.dll
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\roslyn\System.Reflection.Metadata.dll
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\roslyn\System.ValueTuple.dll
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\roslyn\System.Xml.XmlDocument.dll
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\roslyn\System.Xml.XPath.dll
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\roslyn\vbc.exe.config
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\roslyn\vbc.rsp
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\roslyn\VBCSCompiler.exe.config
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\Academy.Common.dll
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\Academy.Data.dll
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\Academy.Repositories.dll
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\Antlr3.Runtime.dll
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\EntityFramework.dll
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\EntityFramework.SqlServer.dll
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\Microsoft.AspNet.Identity.Core.dll
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\Microsoft.Owin.dll
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\Microsoft.Owin.Security.Cookies.dll
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\Microsoft.Owin.Security.dll
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\Microsoft.Owin.Security.Facebook.dll
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\Microsoft.Owin.Security.Google.dll
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\Microsoft.Owin.Security.OAuth.dll
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\Microsoft.Owin.Security.Twitter.dll
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\Microsoft.Web.Infrastructure.dll
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\Newtonsoft.Json.dll
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\Owin.dll
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\System.Web.Helpers.dll
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\System.Web.Mvc.dll
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\System.Web.Optimization.dll
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\System.Web.Razor.dll
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\System.Web.WebPages.Deployment.dll
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\System.Web.WebPages.dll
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\System.Web.WebPages.Razor.dll
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\Unity.Abstractions.dll
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\Unity.Container.dll
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\Unity.Mvc5.dll
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\WebGrease.dll
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\System.Threading.Tasks.Extensions.dll
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\Academy.Common.pdb
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\Academy.Data.pdb
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\Academy.Repositories.pdb
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\System.Web.Helpers.xml
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\System.Web.Mvc.xml
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\System.Web.Optimization.xml
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\System.Web.Razor.xml
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\System.Web.WebPages.xml
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\System.Web.WebPages.Deployment.xml
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\System.Web.WebPages.Razor.xml
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\Newtonsoft.Json.xml
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\Unity.Abstractions.pdb
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\Unity.Container.pdb
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\Antlr3.Runtime.pdb
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\EntityFramework.xml
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\EntityFramework.SqlServer.xml
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\Microsoft.AspNet.Identity.Core.xml
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\Microsoft.Owin.xml
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\Microsoft.Owin.Security.xml
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\Microsoft.Owin.Security.Facebook.xml
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\Microsoft.Owin.Security.Cookies.xml
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\Microsoft.Owin.Security.Google.xml
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\Microsoft.Owin.Security.Twitter.xml
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\Microsoft.Owin.Security.OAuth.xml
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\nghia\ASP.NET MVC\academy\academy\Academy\obj\Debug\Academy.Web.csprojAssemblyReference.cache
+D:\nghia\ASP.NET MVC\academy\academy\Academy\obj\Debug\Academy.Web.csproj.CoreCompileInputs.cache
+D:\nghia\ASP.NET MVC\academy\academy\Academy\obj\Debug\Academy.Web.csproj.CopyComplete
+D:\nghia\ASP.NET MVC\academy\academy\Academy\obj\Debug\Academy.dll
+D:\nghia\ASP.NET MVC\academy\academy\Academy\obj\Debug\Academy.pdb
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\AutoMapper.dll
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\System.ValueTuple.dll
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\Academy.Data.dll.config
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\Academy.Repositories.dll.config
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\AutoMapper.pdb
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\AutoMapper.xml
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\System.ValueTuple.xml
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\bin\Academy.dll.config
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\bin\Academy.dll
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\bin\Academy.pdb
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\bin\roslyn\csc.exe.config
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\bin\roslyn\csc.rsp
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\bin\roslyn\csi.exe.config
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\bin\roslyn\csi.rsp
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\bin\roslyn\System.Console.dll
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\bin\roslyn\System.Net.Http.dll
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\bin\roslyn\vbc.rsp
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\bin\Academy.Common.dll
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\bin\Academy.Data.dll
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\bin\Academy.Repositories.dll
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\bin\AutoMapper.dll
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\bin\Microsoft.Owin.dll
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\bin\Microsoft.Owin.Security.dll
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\bin\Owin.dll
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\bin\System.ValueTuple.dll
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\bin\System.Web.Helpers.dll
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\bin\System.Web.Optimization.dll
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\bin\System.Web.WebPages.dll
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\bin\Unity.Abstractions.dll
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\bin\Unity.Container.dll
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\bin\Unity.Mvc5.dll
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\bin\WebGrease.dll
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\bin\Academy.Common.pdb
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\bin\Academy.Data.pdb
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\bin\Academy.Data.dll.config
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\bin\Academy.Repositories.pdb
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\bin\Academy.Repositories.dll.config
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\bin\AutoMapper.pdb
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\bin\AutoMapper.xml
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\bin\System.ValueTuple.xml
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\bin\System.Web.Helpers.xml
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\bin\System.Web.Optimization.xml
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\bin\System.Web.WebPages.xml
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\bin\Unity.Abstractions.pdb
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\bin\Unity.Container.pdb
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\bin\Microsoft.Owin.xml
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\bin\Microsoft.Owin.Security.xml
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\obj\Debug\Academy.Web.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\obj\Debug\Academy.Web.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\obj\Debug\Academy.Web.csproj.CopyComplete
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\obj\Debug\Academy.dll
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy\obj\Debug\Academy.pdb
+C:\Users\Admin\Desktop\DATN\academy\Academy\bin\Academy.dll.config
+C:\Users\Admin\Desktop\DATN\academy\Academy\bin\Academy.dll
+C:\Users\Admin\Desktop\DATN\academy\Academy\bin\Academy.pdb
+C:\Users\Admin\Desktop\DATN\academy\Academy\bin\roslyn\csc.exe.config
+C:\Users\Admin\Desktop\DATN\academy\Academy\bin\roslyn\csc.rsp
+C:\Users\Admin\Desktop\DATN\academy\Academy\bin\roslyn\csi.exe.config
+C:\Users\Admin\Desktop\DATN\academy\Academy\bin\roslyn\csi.rsp
+C:\Users\Admin\Desktop\DATN\academy\Academy\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Desktop\DATN\academy\Academy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\DATN\academy\Academy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Desktop\DATN\academy\Academy\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\DATN\academy\Academy\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Desktop\DATN\academy\Academy\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Desktop\DATN\academy\Academy\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Desktop\DATN\academy\Academy\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Desktop\DATN\academy\Academy\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Desktop\DATN\academy\Academy\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Desktop\DATN\academy\Academy\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Desktop\DATN\academy\Academy\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Admin\Desktop\DATN\academy\Academy\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Desktop\DATN\academy\Academy\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\DATN\academy\Academy\bin\roslyn\System.Console.dll
+C:\Users\Admin\Desktop\DATN\academy\Academy\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Desktop\DATN\academy\Academy\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Desktop\DATN\academy\Academy\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Desktop\DATN\academy\Academy\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Admin\Desktop\DATN\academy\Academy\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Desktop\DATN\academy\Academy\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Admin\Desktop\DATN\academy\Academy\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Desktop\DATN\academy\Academy\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Desktop\DATN\academy\Academy\bin\roslyn\System.Net.Http.dll
+C:\Users\Admin\Desktop\DATN\academy\Academy\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Admin\Desktop\DATN\academy\Academy\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Desktop\DATN\academy\Academy\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Admin\Desktop\DATN\academy\Academy\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Desktop\DATN\academy\Academy\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Desktop\DATN\academy\Academy\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Desktop\DATN\academy\Academy\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Desktop\DATN\academy\Academy\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Desktop\DATN\academy\Academy\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Desktop\DATN\academy\Academy\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Desktop\DATN\academy\Academy\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Desktop\DATN\academy\Academy\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Desktop\DATN\academy\Academy\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Desktop\DATN\academy\Academy\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Desktop\DATN\academy\Academy\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Desktop\DATN\academy\Academy\bin\roslyn\vbc.rsp
+C:\Users\Admin\Desktop\DATN\academy\Academy\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Desktop\DATN\academy\Academy\bin\Academy.Common.dll
+C:\Users\Admin\Desktop\DATN\academy\Academy\bin\Academy.Data.dll
+C:\Users\Admin\Desktop\DATN\academy\Academy\bin\Academy.Repositories.dll
+C:\Users\Admin\Desktop\DATN\academy\Academy\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Desktop\DATN\academy\Academy\bin\AutoMapper.dll
+C:\Users\Admin\Desktop\DATN\academy\Academy\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\DATN\academy\Academy\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\DATN\academy\Academy\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Admin\Desktop\DATN\academy\Academy\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Admin\Desktop\DATN\academy\Academy\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Admin\Desktop\DATN\academy\Academy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\DATN\academy\Academy\bin\Microsoft.Owin.dll
+C:\Users\Admin\Desktop\DATN\academy\Academy\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Admin\Desktop\DATN\academy\Academy\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Admin\Desktop\DATN\academy\Academy\bin\Microsoft.Owin.Security.dll
+C:\Users\Admin\Desktop\DATN\academy\Academy\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Admin\Desktop\DATN\academy\Academy\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Admin\Desktop\DATN\academy\Academy\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Admin\Desktop\DATN\academy\Academy\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Admin\Desktop\DATN\academy\Academy\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Admin\Desktop\DATN\academy\Academy\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\DATN\academy\Academy\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\DATN\academy\Academy\bin\Owin.dll
+C:\Users\Admin\Desktop\DATN\academy\Academy\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\Desktop\DATN\academy\Academy\bin\System.ValueTuple.dll
+C:\Users\Admin\Desktop\DATN\academy\Academy\bin\System.Web.Helpers.dll
+C:\Users\Admin\Desktop\DATN\academy\Academy\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\DATN\academy\Academy\bin\System.Web.Optimization.dll
+C:\Users\Admin\Desktop\DATN\academy\Academy\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\DATN\academy\Academy\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Desktop\DATN\academy\Academy\bin\System.Web.WebPages.dll
+C:\Users\Admin\Desktop\DATN\academy\Academy\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Desktop\DATN\academy\Academy\bin\Unity.Abstractions.dll
+C:\Users\Admin\Desktop\DATN\academy\Academy\bin\Unity.Container.dll
+C:\Users\Admin\Desktop\DATN\academy\Academy\bin\Unity.Mvc5.dll
+C:\Users\Admin\Desktop\DATN\academy\Academy\bin\WebGrease.dll
+C:\Users\Admin\Desktop\DATN\academy\Academy\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Desktop\DATN\academy\Academy\bin\Academy.Common.pdb
+C:\Users\Admin\Desktop\DATN\academy\Academy\bin\Academy.Data.pdb
+C:\Users\Admin\Desktop\DATN\academy\Academy\bin\Academy.Data.dll.config
+C:\Users\Admin\Desktop\DATN\academy\Academy\bin\Academy.Repositories.pdb
+C:\Users\Admin\Desktop\DATN\academy\Academy\bin\Academy.Repositories.dll.config
+C:\Users\Admin\Desktop\DATN\academy\Academy\bin\AutoMapper.pdb
+C:\Users\Admin\Desktop\DATN\academy\Academy\bin\AutoMapper.xml
+C:\Users\Admin\Desktop\DATN\academy\Academy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\DATN\academy\Academy\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\Desktop\DATN\academy\Academy\bin\System.ValueTuple.xml
+C:\Users\Admin\Desktop\DATN\academy\Academy\bin\System.Web.Helpers.xml
+C:\Users\Admin\Desktop\DATN\academy\Academy\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\DATN\academy\Academy\bin\System.Web.Optimization.xml
+C:\Users\Admin\Desktop\DATN\academy\Academy\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\DATN\academy\Academy\bin\System.Web.WebPages.xml
+C:\Users\Admin\Desktop\DATN\academy\Academy\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Desktop\DATN\academy\Academy\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Desktop\DATN\academy\Academy\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\DATN\academy\Academy\bin\Unity.Abstractions.pdb
+C:\Users\Admin\Desktop\DATN\academy\Academy\bin\Unity.Container.pdb
+C:\Users\Admin\Desktop\DATN\academy\Academy\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Desktop\DATN\academy\Academy\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\DATN\academy\Academy\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\DATN\academy\Academy\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Admin\Desktop\DATN\academy\Academy\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Admin\Desktop\DATN\academy\Academy\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Admin\Desktop\DATN\academy\Academy\bin\Microsoft.Owin.xml
+C:\Users\Admin\Desktop\DATN\academy\Academy\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Admin\Desktop\DATN\academy\Academy\bin\Microsoft.Owin.Security.xml
+C:\Users\Admin\Desktop\DATN\academy\Academy\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Admin\Desktop\DATN\academy\Academy\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Admin\Desktop\DATN\academy\Academy\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Admin\Desktop\DATN\academy\Academy\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Admin\Desktop\DATN\academy\Academy\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Admin\Desktop\DATN\academy\Academy\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Admin\Desktop\DATN\academy\Academy\obj\Debug\Academy.Web.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\DATN\academy\Academy\obj\Debug\Academy.Web.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DATN\academy\Academy\obj\Debug\Academy.Web.csproj.CopyComplete
+C:\Users\Admin\Desktop\DATN\academy\Academy\obj\Debug\Academy.dll
+C:\Users\Admin\Desktop\DATN\academy\Academy\obj\Debug\Academy.pdb
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\CKFinder.dll
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\CKFinder_FileEditor.dll
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\CKFinder_ImageResize.dll
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\CKFinder_Watermark.dll
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\CKFinder.pdb
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\CKFinder_FileEditor.pdb
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\CKFinder_ImageResize.pdb
+D:\nghia\ASP.NET MVC\academy\academy\Academy\bin\CKFinder_Watermark.pdb

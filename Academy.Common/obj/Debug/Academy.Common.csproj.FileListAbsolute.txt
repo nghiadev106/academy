@@ -1,0 +1,16 @@
+E:\Tung\Project\academy\Academy.Common\bin\Debug\Academy.Common.dll
+E:\Tung\Project\academy\Academy.Common\bin\Debug\Academy.Common.pdb
+E:\Tung\Project\academy\Academy.Common\obj\Debug\Academy.Common.csproj.CoreCompileInputs.cache
+E:\Tung\Project\academy\Academy.Common\obj\Debug\Academy.Common.dll
+E:\Tung\Project\academy\Academy.Common\obj\Debug\Academy.Common.pdb
+D:\nghia\ASP.NET MVC\academy\academy\Academy.Common\bin\Debug\Academy.Common.dll
+D:\nghia\ASP.NET MVC\academy\academy\Academy.Common\bin\Debug\Academy.Common.pdb
+D:\nghia\ASP.NET MVC\academy\academy\Academy.Common\obj\Debug\Academy.Common.csproj.CoreCompileInputs.cache
+D:\nghia\ASP.NET MVC\academy\academy\Academy.Common\obj\Debug\Academy.Common.dll
+D:\nghia\ASP.NET MVC\academy\academy\Academy.Common\obj\Debug\Academy.Common.pdb
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy.Common\bin\Debug\Academy.Common.dll
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy.Common\bin\Debug\Academy.Common.pdb
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy.Common\obj\Debug\Academy.Common.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy.Common\obj\Debug\Academy.Common.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy.Common\obj\Debug\Academy.Common.dll
+C:\Users\Admin\Desktop\academy\academy3\academy\Academy.Common\obj\Debug\Academy.Common.pdb

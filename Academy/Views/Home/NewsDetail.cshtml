@@ -1,0 +1,134 @@
+﻿
+
+@{
+    ViewBag.Title = "Chi tiết tin tức";
+    var News = (Academy.Models.NewsViewModel)ViewBag.News;
+}
+
+<div class="highlighted">
+    <div class="container block-about-us">
+        <div class="row">
+            <div class="col-sm-6">
+                <div class="block-about-us-content">
+                    <div class="body_caunoi">
+                        <p style="text-align: center;">@News.Title</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-5"> <img src="@News.Image" /></div>
+        </div>
+    </div>
+    <div class="region region-highlighted">
+        <section id="block-custom-about-us" class="block block-custom node_about_us clearfix">
+            <div class="container">
+                <h2 class="block-title">@News.Title</h2>
+                <div class="block-content">
+                    <div class="row content-about-us">
+                        <div class="col-sm-12" style="text-align:center;">
+                            @News.Description
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section id="block-block-10" class="block block-block loi_ich clearfix">
+            <div class="container">
+               
+                <div class="row">
+                   <div class="col-12">@Html.Raw(News.Detail)</div>
+                </div>
+            </div>
+        </section>
+        <section id="block-views-slideshow-block-1" class="block block-views block_uu_diem clearfix">
+            <div class="container">
+                <h2 class="block-title">6.8 triệu học viên trên Thế giới đã chọn APTECH, Vì sao?</h2>
+                <h3></h3>
+                <div class="row">
+                    <div class="view view-slideshow view-id-slideshow view-display-id-block_1 view-dom-id-71bd4fdf3d97bbb4f0802af7a98cead6">
+                        <div class="view-content">
+                            <div class="owl-carousel-block_18">
+                                <div class="item-0 item-odd">
+                                    <div class="views-field views-field-field-slider-images">
+                                        <div class="field-content"><img typeof="foaf:Image" src="~/Assets/pages/sites/default/files/styles/265_175/public/chuong_trinh_hoc_chu_trong_thuc_hanhbdb9.jpg?itok=jjDaHJ0Y" width="265" height="175" alt="" /></div>
+                                    </div>
+                                    <div class="views-field views-field-nothing">
+                                        <span class="field-content">
+                                            <div class="uu_diem_row">
+                                                <div class="title">Chương trình học</div>
+                                                <div class="row_2">Chú trọng thực hành</div>
+                                                <div class="body_caunoi">
+                                                    <p style="text-align: justify;">Với chương trình học chú trọng thực hành, sinh viên APTECH luôn được tạo điều kiện để thực hiện các dự án thực tế một cách thành thạo, chuyên nghiệp nhất.</p>
+                                                </div>
+                                            </div>
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="item-1 item-even">
+                                    <div class="views-field views-field-field-slider-images">
+                                        <div class="field-content"><img typeof="foaf:Image" src="~/Assets/pages/sites/default/files/styles/265_175/public/doi_ngu_giang_vien_than_thien_nhiet_tinh5942.jpg?itok=NP-hk2Ku" width="265" height="175" alt="" /></div>
+                                    </div>
+                                    <div class="views-field views-field-nothing">
+                                        <span class="field-content">
+                                            <div class="uu_diem_row">
+                                                <div class="title">Đội ngũ giảng viên</div>
+                                                <div class="row_2">Thân thiện, nhiệt tình</div>
+                                                <div class="body_caunoi">
+                                                    <p style="text-align: justify;">Giảng viên là những Chuyên gia hàng đầu Việt Nam và luôn đồng hành cùng sinh viên APTECH trong quá trình học tập và phát triển.</p>
+                                                </div>
+                                            </div>
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="item-2 item-odd">
+                                    <div class="views-field views-field-field-slider-images">
+                                        <div class="field-content"><img typeof="foaf:Image" src="~/Assets/pages/sites/default/files/styles/265_175/public/co-so-vat-chat-theo-chuan-quoc-tebd74.jpg?itok=pwqtFqW5" width="265" height="175" alt="" /></div>
+                                    </div>
+                                    <div class="views-field views-field-nothing">
+                                        <span class="field-content">
+                                            <div class="uu_diem_row">
+                                                <div class="title">Cơ sở vật chất</div>
+                                                <div class="row_2">theo chuẩn Quốc tế</div>
+                                                <div class="body_caunoi">
+                                                    <p style="text-align: justify;">Với tiêu chuẩn đào tạo quốc tế, APTECH luôn đảm bảo cho học viên không gian học tập, nghiêm cứu sáng tạo và hiện đại nhất.</p>
+                                                </div>
+                                            </div>
+                                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        
+        <section id="block-block-11" class="block block-block button clearfix">
+            <div class="container">
+                <h2 class="block-title">Bạn có muốn học cùng chuyên gia CNTT hàng đầu?</h2>
+                <div class="row">
+                    <div class="col-sm-12"><a href="#block-webform-client-block-5352" class="button_i_want">Tôi muốn</a></div>
+                </div>
+            </div>
+        </section>
+        
+    </div>
+</div>
+<div class="front_content_1">
+    <div class="container">
+        <div class="row">
+            <div class="region region-front-content-1">
+                <section id="block-block-22" class="block block-block col-sm-12 ads clearfix">
+                    <div class="block-content">
+                        <p><a href="aptechplus.aptech-news.html"></a></p>
+                    </div>
+                </section>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script src="~/Assets/pages/js/email-decode.min.js"></script>
+<script src="~/Assets/pages/sites/all/libraries/owl-carousel/owl.carousel.min43ff.js?qo1stt"></script>
+<script src="~/Assets/pages/sites/all/modules/facebook_comments_block/js/facebook_comments_block43ff.js?qo1stt"></script>
+<script src="~/Assets/pages/sites/all/modules/owlcarousel/includes/js/owlcarousel.settings43ff.js?qo1stt"></script>
+<script src="~/Assets/pages/sites/all/themes/bootstrap/js/bootstrap43ff.js?qo1stt"></script>

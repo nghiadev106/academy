@@ -1,0 +1,147 @@
+﻿@model Academy.Models.FeedBackViewModel
+@{
+    ViewData["Title"] = "Home Page";
+    var lstCourses = (List<Academy.Models.CourseViewModel>)ViewBag.ListCourse;
+}
+
+<div class="highlighted">
+    <div class="region region-highlighted">
+        <section id="block-block-12" class="block block-block header_course clearfix">
+            <div class="container">
+                <h2 class="block-title">Nội dung khóa học</h2>
+                <div class="row">
+                    <div class="col-sm-12">
+                        <div class="name_course">ĐÀO TẠO LẬP TRÌNH VIÊN QUỐC TẾ - ACCP - ADSE</div>
+                        <div class="time_course">(4 học kỳ - trong vòng 2,5 năm)</div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+</div>
+<div class="front_content_1">
+    <div class="container">
+        <div class="row">
+            <div class="region region-front-content-1">
+                @foreach (var item in lstCourses)
+                {
+                    <section id="block-block-13" class="block block-block hoc_ky_1_1 col-sm-6 clearfix">
+                        <h2 class="block-title">@item.Name</h2>
+                        <div class="block-content">
+                            @Html.Raw(item.Description)
+
+                        </div>
+                    </section>
+                    <section id="block-block-14" class="block block-block col-sm-6 content_hk1 clearfix">
+                        <div class="block-content">
+                            <div class="content_ky">
+                                @Html.Raw(item.Note)
+                            </div>
+                        </div>
+                    </section>
+                }
+                <section id="block-views-slideshow-block-5" class="block block-views col-sm-12 eproject_ect clearfix">
+                    <h2 class="block-title">Các dự án phần mềm</h2>
+                    <div class="block-content">
+                        <div class="view view-slideshow view-id-slideshow view-display-id-block_5 row view-dom-id-3309baf1d007ca45f6283d48b268b9fe">
+                            <div class="view-header">
+                                <h3>Cuối mỗi học kỳ, học viên tham gia làm 1 dự án phần mềm theo nhóm (eProject).</h3>
+                                <p>eProject mô phỏng quá trình làm dự án trên thực tế, giúp các bạn học viên trải nghiệm môi trường làm việc thật trong doanh nghiệp sau khi tốt nghiệp.</p>
+                                <p>Khi thực hiện dự án, học viên có thể liên lạc với nhau qua Internet mà không cần tập trung tại một địa điểm.</p>
+                            </div>
+                            <div class="view-content">
+                                <div class="owl-carousel-block_58">
+                                    <div class="item-0 item-odd">
+                                        <div class="views-field views-field-field-icon-project">
+                                            <div class="field-content"><img typeof="foaf:Image" src="~/Assets/pages/sites/default/files/loi_ich1_0.png" width="99" height="89" alt="" /></div>
+                                        </div>
+                                        <div class="views-field views-field-title"> <span class="field-content">Nâng cao khả năng tiếng Anh</span></div>
+                                    </div>
+                                    <div class="item-1 item-even">
+                                        <div class="views-field views-field-field-icon-project">
+                                            <div class="field-content"><img typeof="foaf:Image" src="~/Assets/pages/sites/default/files/loi_ich4.png" width="103" height="100" alt="" /></div>
+                                        </div>
+                                        <div class="views-field views-field-title"> <span class="field-content">Trải nghiệm thông qua việc làm trên một dự án thực tế</span></div>
+                                    </div>
+                                    <div class="item-2 item-odd">
+                                        <div class="views-field views-field-field-icon-project">
+                                            <div class="field-content"><img typeof="foaf:Image" src="~/Assets/pages/sites/default/files/loi_ich3.png" width="122" height="129" alt="" /></div>
+                                        </div>
+                                        <div class="views-field views-field-title"> <span class="field-content">Phát triển các kỹ năng làm việc nhóm</span></div>
+                                    </div>
+                                    <div class="item-3 item-even">
+                                        <div class="views-field views-field-field-icon-project">
+                                            <div class="field-content"><img typeof="foaf:Image" src="~/Assets/pages/sites/default/files/loi_ich2.png" width="117" height="117" alt="" /></div>
+                                        </div>
+                                        <div class="views-field views-field-title"> <span class="field-content">Dự án được thực hiện theo mô hình Agile</span></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+                <section id="block-block-22" class="block block-block col-sm-12 ads clearfix">
+                    <div class="block-content">
+                        <p><a href="aptechplus.aptech-news.html"></a></p>
+                    </div>
+                </section>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="front_content_2">
+    <div class="region region-front-content-2">
+        <section id="block-webform-client-block-5352" class="block block-webform form_register col-sm-12 clearfix">
+            <div class="container">
+                <h2 class="block-title">ĐĂNG KÝ NHẬN TƯ VẤN TỪ APTECH</h2>
+                <h3>Bạn vui lòng điền đầy đủ thông tin và click đăng ký. APTECH sẽ liên lạc với bạn trong thời gian sớm nhất</h3>
+                <div class="row">
+                    <div id="webform-ajax-wrapper-5352">
+                        <form class="webform-client-form webform-client-form-5352" action="/Home/FeedBack" method="post" id="webform-client-form-5352" accept-charset="UTF-8">
+                            <div>
+                                <div class="form-item webform-component webform-component-textfield webform-component--name"> <label for="edit-submitted-name">Họ và tên <span class="form-required" title="This field is required.">*</span></label>@Html.TextBoxFor(model => model.Name, new { @required = "required", @class = "form-control form-text required", @type = "text", id = "edit-submitted-name", size = "60", maxlength = "128" })</div>
+                                <div class="form-item webform-component webform-component-email webform-component--e-mail"> <label for="edit-submitted-e-mail">E-mail <span class="form-required" title="This field is required.">*</span></label> @Html.TextBoxFor(model => model.Email, new { @required = "required", @class = "form-control form-text required", @type = "text", id = "edit-submitted-email", size = "60", maxlength = "128" })</div>
+                                <div class="form-item webform-component webform-component-textfield webform-component--phone"> <label for="edit-submitted-phone">Điện thoại <span class="form-required" title="This field is required.">*</span></label> @Html.TextBoxFor(model => model.Phone, new { @required = "required", @class = "form-control form-text required", @type = "number", id = "edit-submitted-email", size = "60", maxlength = "128" })</div>
+                                <div class="form-item webform-component webform-component-radios webform-component--location">
+                                    <label for="edit-submitted-location">Vị trí <span class="form-required" title="This field is required.">*</span></label>
+                                    <div id="edit-submitted-location" class="form-radios">
+                                        <div class="form-type-radio form-item-submitted-location form-item radio"> <input required="required" type="radio" id="edit-submitted-location-1" name="submitted[location]" value="1" class="form-radio" /> <label for="edit-submitted-location-1">54 Lê Thanh Nghị, Bách Khoa, Hà Nội </label></div>
+                                        <div class="form-type-radio form-item-submitted-location form-item radio"> <input required="required" type="radio" id="edit-submitted-location-2" name="submitted[location]" value="2" class="form-radio" /> <label for="edit-submitted-location-2">285 Đội Cấn, Ba Đình, Hà Nội </label></div>
+                                        <div class="form-type-radio form-item-submitted-location form-item radio"> <input required="required" type="radio" id="edit-submitted-location-3" name="submitted[location]" value="3" class="form-radio" /> <label for="edit-submitted-location-3">212-214 Nguyễn Đình Chiểu, Q.3, TPHCM </label></div>
+                                    </div>
+                                </div>
+                                <fieldset class="captcha panel panel-default form-wrapper">
+
+                                    <div class="panel-body">
+                                        <div class="form-type-textfield form-item-captcha-response form-item form-group" data-toggle="tooltip" title="Fill in the blank."> <label for="edit-captcha-response">Nhập thông tin cần tư vấn<span class="form-required" title="This field is required.">*</span></label> @Html.TextBoxFor(model => model.Description, new { @class = "form-control form-text", @type = "text", id = "edit-submitted-desc", size = "50", maxlength = "500" })</div>
+                                    </div>
+                                </fieldset>
+                                <button class="webform-submit button-primary btn btn-primary form-submit" value="Submit" type="submit">Submit</button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </section>
+        
+    </div>
+</div>
+
+<script src="~/Assets/pages/js/email-decode.min.js"></script>
+<script src="~/Assets/pages/sites/all/libraries/owl-carousel/owl.carousel.min43ff.js?qo1stt"></script>
+<script src="~/Assets/pages/sites/all/modules/facebook_comments_block/js/facebook_comments_block43ff.js?qo1stt"></script>
+<script src="~/Assets/pages/sites/all/modules/owlcarousel/includes/js/owlcarousel.settings43ff.js?qo1stt"></script>
+<script src="~/Assets/pages/sites/all/themes/bootstrap/js/bootstrap43ff.js?qo1stt"></script>
+<script>
+</script>
+<noscript>
+    <img height="1" width="1" style="display:none"
+         src="https://www.facebook.com/tr?id=773220622877128&amp;ev=PageView&amp;noscript=1" />
+</noscript>
+<noscript>
+    <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NV98LLF"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<script>!function (s, u, b, i, z) { var o, t, r, y; s[i] || (s._sbzaccid = z, s[i] = function () { s[i].q.push(arguments) }, s[i].q = [], s[i]("setAccount", z), r = ["widget.subiz.net", "storage.googleapis" + (t = ".com"), "app.sbz.workers.dev", i + "a" + (o = function (k, t) { var n = t <= 6 ? 5 : o(k, t - 1) + o(k, t - 3); return k !== t ? n : n.toString(32) })(20, 20) + t, i + "b" + o(30, 30) + t, i + "c" + o(40, 40) + t], (y = function (k) { var t, n; s._subiz_init_2094850928430 || r[k] && (t = u.createElement(b), n = u.getElementsByTagName(b)[0], t.async = 1, t.src = "https://" + r[k] + "/sbz/app.js?accid=" + z, n.parentNode.insertBefore(t, n), setTimeout(y, 2e3, k + 1)) })(0)) }(window, document, "script", "subiz", "acqpeyxnjmvbdavhzcwm")</script>
+<script>window.fbAsyncInit = function () { FB.init({ appId: '189605364869646', autoLogAppEvents: true, xfbml: true, version: 'v2.11' }); }; (function (d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) { return; } js = d.createElement(s); js.id = id; js.src = '../connect.facebook.net/en_US/sdk/xfbml.customerchat.js'; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script>
+<div class="fb-customerchat" page_id="371202429573648" minimized="true" logged_in_greeting="Xin chào! Aptech có thể giúp gì cho bạn?" logged_out_greeting="Xin chào! Aptech có thể giúp gì cho bạn?"> </div>
